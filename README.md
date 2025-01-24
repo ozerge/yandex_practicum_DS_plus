@@ -39,7 +39,7 @@
       </tr>
       <tr>
   	<td>5</td>
-    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/02_Statystic/05_scooter_rental_service_GoFast">Анализ данных сервиса аренды самокатов</a></td>
+    	<td><a href = "https://github.com/ozerge/yandex_practicum_DS_plus/blob/main/02_Statystic/">Анализ данных сервиса аренды самокатов</a></td>
 	<td><tt>Python</tt>, <tt>Pandas</tt>, <tt>Numpy</tt>, <tt>Matplotlib</tt>, <tt>Scipy</tt></td>
 	<td>На основе информации, собранной популярным сервисом аренды самокатов "GoFast" о некоторых пользователях из нескольких городов, а также об их поездках, провести подготовку и  анализ данных для проверки гипотез, которые могут помочь бизнесу вырасти.</td>
       </tr>
